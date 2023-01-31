@@ -1,3 +1,1 @@
-# salut
-
 # Comment ca va
